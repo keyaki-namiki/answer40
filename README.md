@@ -11,6 +11,8 @@ Answer40 is my answer for 40% keyboards.
 
 ## More info
 
+[build log(JP)](https://keyaki-namiki.hatenablog.jp/entry/20190504/1556900578)
+
 [build guide(WIP)](docs/build/README.md) 
 
 [schema(PDF)](docs/answer40.pdf)
