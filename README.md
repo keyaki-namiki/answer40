@@ -17,6 +17,10 @@ Answer40 is my answer for 40% keyboards.
 
 [schema(PDF)](docs/answer40.pdf)
 
+## Default keymaps
+
+![keymaps](images/answer40_default_keymaps.png)
+
 
 ## More images
 ![layouts](images/supported_layout.jpg)
